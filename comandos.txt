@@ -1,0 +1,19 @@
+﻿
+#linux
+pwd (mostra onde vc esta)
+ls ( lista arquivos da pasta atual ) 
+cd pasta ( entra nos diretorios ou  pasta)
+cp origem ../aula4 ( copiando arquivos )
+
+
+#Git
+
+git clone https://github.com/arthur2017silveira/Aulas-html.git
+git add . 
+git commit -m "seu comentario"
+git push
+
+# windows
+
+cmd
+ping -t www.uol.com.br
